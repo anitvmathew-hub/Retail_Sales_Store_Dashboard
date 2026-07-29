@@ -1,1 +1,1 @@
-# Retail_Sales_Store_Dashboard
+![Retail_Store_Sales_Dashboard](image/Sales_Overview.png)

@@ -108,7 +108,6 @@ Total Quantity Sold
 Average Order Value
 Highest Selling Item
 Highest Selling Category
-Sales Growth %
 Previous Month Sales
 Top Location
 Most Used Payment Method

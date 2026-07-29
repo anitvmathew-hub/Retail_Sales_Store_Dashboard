@@ -1,6 +1,157 @@
 🛒 Retail Store Sales Analytics Dashboard
 
+Transforming raw retail data into actionable business intelligence using Excel and Power BI
+
+This project demonstrates an end-to-end data analytics workflow, beginning with raw data collection, followed by data cleaning and transformation in Microsoft Excel, and culminating in the development of an interactive Power BI dashboard.The primary objective of this analysis is to uncover meaningful insights into customer purchasing behavior, product performance, sales trends, payment preferences, and regional performance. The dashboard enables stakeholders to monitor key performance indicators (KPIs), identify growth opportunities, and support strategic decision-making through data visualization.
+
+Business Objectives
+
+This project aims to answer several important business questions:
+
+Which product categories generate the highest revenue?
+Which individual products contribute the most to sales?
+Which sales channels or locations perform best?
+How do discounts influence customer purchasing behavior?
+Which payment methods are preferred by customers?
+How do sales fluctuate across different months?
+Which categories contribute the highest transaction volume?
+
+
+Dataset Information
+
+Source: Kaggle
+
+Dataset: Retail Store Sales (Dirty Dataset for Data Cleaning)
+
+The dataset contains transactional retail data, including:
+
+Transaction Details
+Product Information
+Product Category
+Quantity Sold
+Unit Price
+Discount Applied
+Customer Details
+Payment Method
+Store Location
+Sales Amount
+Transaction Date
+
+The original dataset intentionally contained inconsistencies and data quality issues, making it suitable for practicing real-world data cleaning techniques.
+
+ Phase 1 – Data Preprocessing (Microsoft Excel)
+
+Before visualization, the raw dataset was carefully cleaned and transformed to improve data quality and ensure reliable analysis.
+
+Data Cleaning Activities Removed duplicate transaction records
+Handled missing and blank values
+Corrected inconsistent text formatting
+Standardized category names
+Standardized payment methods
+Corrected inconsistent date formats
+Converted columns to appropriate data types
+Removed extra spaces and formatting errors
+Verified numerical accuracy
+Created additional date fields (Year, Month, Day)
+Prepared the dataset for Power BI modeling
+Challenges Encountered
+
+Working with raw retail data presented several practical challenges:
+
+Missing values across multiple columns
+Inconsistent naming conventions
+Mixed date formats
+Duplicate entries
+Data type mismatches
+Incomplete categorical information
+
+Addressing these issues ensured that the final dataset was accurate, consistent, and analysis-ready.
+
+📊 Phase 2 – Interactive Power BI Dashboard
+
+After preprocessing, the cleaned dataset was imported into Power BI to build an interactive business intelligence dashboard.
+
+The dashboard provides a comprehensive overview of sales performance through dynamic visualizations, KPIs, and filtering capabilities.
+
+Dashboard Components
+Executive KPIs
+Total Sales
+Total Products
+Total Customers
+Total Quantity Sold
+Average Order Value
+Highest Selling Item
+Highest Selling Category
+Top Sales Location
+Most Used Payment Method
+Visualizations
+Monthly Sales Trend
+Sales by Category
+Quantity Sold by Category
+Sales by Payment Method
+Product Performance Analysis
+Customer Purchase Distribution
+Location-wise Sales Analysis
+Discount Impact Analysis
+Top Selling Products
+
+Interactive slicers allow users to explore data dynamically across different dimensions.
+
+📈 DAX Measures Implemented
+
+The dashboard includes several custom DAX measures, including:
+
+Total Sales
+Total Products
+Total Customers
+Total Quantity Sold
+Average Order Value
+Highest Selling Item
+Highest Selling Category
+Sales Growth %
+Previous Month Sales
+Top Location
+Most Used Payment Method
+
+These calculations enhance the dashboard by providing dynamic metrics and business insights.
+
+Key Business Insights
+
+Based on the analysis:
+
+Total Revenue reached $1.47M.
+The dataset contains 200 unique products.
+25 customers generated over 63K units sold.
+Furniture emerged as the highest-performing category.
+ITEM_25_FUR was the best-selling product.
+Online was the highest revenue-generating location.
+Cash was the most frequently used payment method.
+Products sold with discounts contributed significantly to overall sales.
+January recorded the highest sales volume among all months.
+
+Technologies Used:
+
+Tool	Purpose
+Microsoft Excel	Data Cleaning & Preprocessing
+Power BI Desktop	Data Modeling & Dashboard Development
+DAX	Business Calculations & KPIs
+GitHub	Version Control & Project Documentation
+
+
+Skills Used:
+
+Data Cleaning, Data Transformation, Data Validation, Excel Functions, Data Modeling, DAX Calculations, Business Intelligence, Dashboard Design, KPI Development, 
+Data Visualization, Business Insight Generation
+
+Conclusion
+
+This project demonstrates the complete lifecycle of a retail sales analytics solution—from cleaning raw transactional data to building an interactive Power BI dashboard that communicates business performance effectively.
+
+The resulting dashboard empowers decision-makers with clear, data-driven insights into sales trends, customer behavior, and product performance, showcasing practical skills in data analytics, visualization, and business intelligence.
+
 ![Retail_Store_Sales_Dashboard](image/Sales_Overview.png)
 ![Retail_Store_Sales_Dashboard](image/Product_Performance_Analysis.png)
 ![Retail_Store_Sales_Dashboard](image/Discount_And_Time_Analysis.png)
 ![Retail_Store_Sales_Dashboard](image/Customer_And_Transaction_Analysis.png)
+
+

@@ -21,9 +21,9 @@ This project aims to answer several important business questions:
 ### Dataset Information
 
 
-##### Source: Kaggle
+#### Source: Kaggle
 
-##### Dataset: Retail Store Sales (Dirty Dataset for Data Cleaning)
+#### Dataset: Retail Store Sales (Dirty Dataset for Data Cleaning)
 
 The dataset contains transactional retail data, including:
 
@@ -168,7 +168,7 @@ These calculations enhance the dashboard by providing dynamic metrics and busine
 
 
 
-
+### Dashboard Screenshots
 
 ![Retail_Store_Sales_Dashboard](image/Sales_Overview.png)
 

@@ -155,7 +155,9 @@ These calculations enhance the dashboard by providing dynamic metrics and busine
   while maintaining healthy profit margins.
 
 ### Tools & Technologies Used
-####Tool	                                                   ####Purpose
+
+#### Tool	                                                   #### Purpose
+
 Microsoft                                     Excel	Data Cleaning, Transformation, Pivot Analysis
 Power BI	                                    Dashboard Development and Data Visualization
 DAX	                                          Calculated Measures and Business Metrics

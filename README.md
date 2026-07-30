@@ -159,13 +159,12 @@ These calculations enhance the dashboard by providing dynamic metrics and busine
 
 ### Business Recommendations
 
-* Increase inventory for high-demand products to avoid stock shortages.
-* As online is the top-performing sales location, invest in enhancing the online shopping experience through personalized recommendations, faster delivery and     digital marketing initiatives.
-* Focus on peak sales period (January) by planning inventory, staffing and marketing campaigns around peak demand period.
-* Monitor customer purchasing trends to create targeted marketing campaigns and customer retention strategies.
-* Analyze underperforming product categories to identify opportunities for pricing adjustments, promotional offers or product assortment improvements.
-* The analysis indicates that sales increase when discounts are offered so introduce targeted promotional campaigns during off-peak periods to maximize revenue
-  while maintaining healthy profit margins.
+* **Increase inventory** for high-demand products to avoid stock shortages.
+* As online is the top-performing sales location, **invest in enhancing the online shopping** experience through personalized recommendations, faster delivery      and digital marketing initiatives.
+* **Focus on peak sales period (January)** by planning inventory, staffing and marketing campaigns around peak demand period.
+* **Monitor customer purchasing trends** to create targeted marketing campaigns and customer retention strategies.
+* **Analyze underperforming product categories** to identify opportunities for pricing adjustments, promotional offers or product assortment improvements.
+* The analysis indicates that sales increase when discounts are offered so **implement strategic discount campaigns during slower periods** while monitoring        profitability.
 
 
 

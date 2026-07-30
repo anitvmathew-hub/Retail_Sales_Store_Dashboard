@@ -134,13 +134,14 @@ These calculations enhance the dashboard by providing dynamic metrics and busine
 ### Tools & Technologies Used
 
 
-Microsoft -                                   Excel	Data Cleaning, Transformation, Pivot Analysis
+ * Microsoft -                                   Excel	Data Cleaning, Transformation, Pivot Analysis
 
-Power BI -                                    Dashboard Development and Data Visualization
+ * Power BI -                                    Dashboard Development and Data Visualization
 
-DAX	-                                         Calculated Measures and Business Metrics
+ * DAX	-                                         Calculated Measures and Business Metrics
 
-Kaggle -                                     	Dataset Source
+ * Kaggle -                                     	Dataset Source
+
 
 
 ### Key Business Insights Based on the analysis:

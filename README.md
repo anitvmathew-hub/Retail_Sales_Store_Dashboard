@@ -131,6 +131,18 @@ The dashboard includes several custom DAX measures, including:
 
 These calculations enhance the dashboard by providing dynamic metrics and business insights.
 
+### Tools & Technologies Used
+
+
+Microsoft -                                   Excel	Data Cleaning, Transformation, Pivot Analysis
+
+Power BI -                                    Dashboard Development and Data Visualization
+
+DAX	-                                         Calculated Measures and Business Metrics
+
+Kaggle -                                     	Dataset Source
+
+
 ### Key Business Insights Based on the analysis:
 
 * Total Revenue reached $1.47M.
@@ -154,16 +166,6 @@ These calculations enhance the dashboard by providing dynamic metrics and busine
 * The analysis indicates that sales increase when discounts are offered so introduce targeted promotional campaigns during off-peak periods to maximize revenue
   while maintaining healthy profit margins.
 
-### Tools & Technologies Used
-
-
-Microsoft -                                   Excel	Data Cleaning, Transformation, Pivot Analysis
-
-Power BI -                                    Dashboard Development and Data Visualization
-
-DAX	-                                         Calculated Measures and Business Metrics
-
-Kaggle -                                     	Dataset Source
 
 
 

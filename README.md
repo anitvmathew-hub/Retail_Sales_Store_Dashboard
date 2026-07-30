@@ -57,7 +57,7 @@ Before visualization, the raw dataset was carefully cleaned and transformed to i
  * Removed extra spaces and formatting errors
  * Verified numerical accuracy
  * Created additional date fields (Year, Month, Day)
- * Created Pivot Tables
+ * Created required Pivot Tables
  * Prepared the dataset for Power BI modeling
 
 

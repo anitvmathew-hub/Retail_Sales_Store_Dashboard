@@ -146,15 +146,15 @@ These calculations enhance the dashboard by providing dynamic metrics and busine
 
 ### Key Business Insights Based on the analysis:
 
-* Total Revenue reached $1.47M.
-* The dataset contains 200 unique products.
-* 25 customers generated over 63K units sold.
-* Furniture emerged as the highest-performing category.
-* ITEM_25_FUR was the best-selling product.
-* Online was the highest revenue-generating location.
-* Cash was the most frequently used payment method.
-* Products sold with discounts contributed significantly to overall sales.
-* January recorded the highest sales volume among all months.
+* Total Revenue reached **$1.47M**.
+* The dataset contains **200** unique products.
+* 25 customers generated over **63K** units sold.
+* **Furniture** emerged as the highest-performing category.
+* **ITEM_25_FUR** was the best-selling product.
+* **Online** was the highest revenue-generating location.
+* **Cash** was the most frequently used payment method.
+* Products sold with **discounts** contributed significantly to overall sales.
+* **January** recorded the highest sales volume among all months.
 
 
 ### Business Recommendations
